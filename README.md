@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence at **Soochow University** (苏州大学), School of Future Science and Engineering, under the supervision of **Prof. Ruwang Jiao**.
+I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence at **Soochow University** (苏州大学). My academic research focuses on evolutionary computation, while my practical expertise spans a broader spectrum.
 
-- 🔭 I'm currently working on **Evolutionary Computation & Multi-objective Optimization**
-- 🌱 I'm currently learning **Imbalanced Learning & Ensemble Methods**
-- 👯 I'm looking to collaborate on **multi-objective optimization algorithms and imbalanced classification problems**
-- 🤔 I'm looking for help with **large-scale evolutionary algorithms and real-world optimization applications**
-- 💬 Ask me about **evolutionary computation, NSGA-II/III, MOEA/D, resampling techniques for imbalanced data**
+- 🔭 I'm currently working on **AI Agent systems, LLM applications, and data mining**
+- 🌱 I specialize in **Large Language Models, RAG pipelines, AI Agent frameworks, and intelligent system design**
+- 👯 I'm looking to collaborate on **AI Agent projects, LLM-based tooling, and data-driven applications**
+- 🤔 I'm looking for help with **advanced Agent architectures and large-scale model deployment**
+- 💬 Ask me about **LLMs, AI Agents, data mining, prompt engineering, and building end-to-end AI systems**
 - 📫 How to reach me: **shichao.zhai@gmail.com**
-- ⚡ Fun fact: "Stay hungry, stay foolish." — Steve Jobs
 
 <div>
   <a href="https://zhaishichao.github.io/"><img src="https://img.shields.io/badge/Website-学术主页-8c36db" /></a>&emsp;
@@ -20,22 +19,19 @@ I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence 
 
 ---
 
-## 🔬 Research Interests
+## 🛠 Tech Stack & Expertise
 
-| Area | Topics |
+| 方向 | 技术栈 |
 |------|--------|
-| **Evolutionary Computation** | Genetic Algorithms, Particle Swarm Optimization, Differential Evolution |
-| **Multi-objective Optimization** | Pareto-based Methods (NSGA-II/III), Decomposition-based (MOEA/D), Indicator-based |
-| **Imbalanced Learning** | Oversampling/Undersampling, Cost-sensitive Learning, Ensemble Methods |
+| **AI & LLMs** | GPT/Claude/DeepSeek, Prompt Engineering, Fine-tuning, Model Evaluation |
+| **AI Agent** | LangChain, AutoGPT, CrewAI, Tool Use, Multi-Agent Collaboration, RAG |
+| **Data Mining** | Feature Engineering, Classification/Regression, Ensemble Methods, Imbalanced Learning |
+| **Academia** | Evolutionary Computation, Multi-objective Optimization (NSGA-II/III, MOEA/D) |
 
 ---
 
 ## 📊 GitHub 数据统计
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zhaishichao&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaishichao&layout=compact&theme=default&hide_border=true&hide=html,css" />
-</div>
 
 <!-- 连续提交天数 -->
 <div align="center">
@@ -48,4 +44,12 @@ I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence 
 <!-- 贡献图 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhaishichao&theme=github-light&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 GitHub 奖杯
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhaishichao&theme=flat&column=7&margin-w=10&no-frame=true&no-bg=true" />
 </div>
