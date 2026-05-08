@@ -8,6 +8,7 @@ I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence 
 - 🤔 I'm looking for help with **advanced Agent architectures and large-scale model deployment**
 - 💬 Ask me about **LLMs, AI Agents, data mining, prompt engineering, and building end-to-end AI systems**
 - 📫 How to reach me: **shichao.zhai@gmail.com**
+- ⚡ Stay hungry, stay foolish. / 求知若饥，虚心若愚。 — Steve Jobs
 
 <div>
   <a href="https://zhaishichao.github.io/"><img src="https://img.shields.io/badge/Website-学术主页-8c36db" /></a>&emsp;
