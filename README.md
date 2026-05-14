@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence at **Soochow University** (苏州大学). My academic research focuses on evolutionary computation, while my practical expertise spans a broader spectrum.
+I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence at [Soochow University (苏州大学)](https://www.suda.edu.cn/). My academic research focuses on evolutionary computation, while my practical expertise spans a broader spectrum.
 
 - 🔭 I'm currently working on **AI Agent systems, LLM applications, and data mining**
 - 🌱 I specialize in **Large Language Models, RAG pipelines, AI Agent frameworks, and intelligent system design**
