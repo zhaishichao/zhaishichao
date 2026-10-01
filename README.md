@@ -48,12 +48,12 @@ I'm **Shichao Zhai (翟士超)**, a graduate student in Artificial Intelligence 
 </div>
 
 ---
-<!-- 
+<!-- 奖杯 -->
 ## 🏆 GitHub 奖杯
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zhaishichao&theme=flat&column=7&margin-w=10&no-frame=true&no-bg=true" />
 </div> 
--->
+
 
 
 
